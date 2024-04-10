@@ -1,7 +1,7 @@
-Data Collection: 
+#Data Collection: 
   Gather a dataset of SMS messages labeled as spam or not spam (ham). You can find such datasets online or create your own by labeling messages manually.
 
-Data Preprocessing:
+#Data Preprocessing:
 
 Tokenization: Split each message into individual words or tokens.
 Lowercasing: Convert all words to lowercase to ensure consistency.
