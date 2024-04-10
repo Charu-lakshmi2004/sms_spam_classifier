@@ -1,6 +1,5 @@
-Here's a basic outline for building a spam classification system for SMS messages:
-
-Data Collection: Gather a dataset of SMS messages labeled as spam or not spam (ham). You can find such datasets online or create your own by labeling messages manually.
+Data Collection: 
+  Gather a dataset of SMS messages labeled as spam or not spam (ham). You can find such datasets online or create your own by labeling messages manually.
 
 Data Preprocessing:
 
